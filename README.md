@@ -1,1 +1,1 @@
-![](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr)
+![](https://giphy.com/embed/L1R1tvI9svkIWwpVYr)
