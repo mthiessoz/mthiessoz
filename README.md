@@ -1,1 +1,1 @@
-![](https://github.com/mthiessoz/mthiessoz/blob/main/wcode.gif))
+![](https://github.com/mthiessoz/mthiessoz/blob/main/wcode.gif)
