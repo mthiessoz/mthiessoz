@@ -1,6 +1,6 @@
 ![](https://github.com/mthiessoz/mthiessoz/blob/main/wcode.gif)
-<h1 align="center">Hi 👋, I'm Marlène</h1>
-<h3 align="center">A swiss passionate student learning coding at 42 School in Lausanne</h3>
+<h1 align="left">Hi 👋, I'm Marlène</h1>
+<h3 align="left">A swiss passionate student learning coding at 42 School in Lausanne</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
