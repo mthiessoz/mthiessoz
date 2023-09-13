@@ -1,4 +1,4 @@
-<p align= "center">![](https://github.com/mthiessoz/mthiessoz/blob/main/wcode.gif)
+<p><img align="center"> src="https://github.com/mthiessoz/mthiessoz/blob/main/wcode.gif"/></p>
 <h1 align="center">Hi 👋, I'm Marlène</h1>
 <h3 align="center">A swiss passionate student learning coding at 42 School in Lausanne</h3>
 
